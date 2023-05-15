@@ -8,7 +8,7 @@ The mission of this community is to provide a free, vendor-neutral forum for the
 
 Visit our [Meetup](https://www.meetup.com/spacecoastsec/) page for information regarding our next meeting and RSVP! 
 
-Visit Space Coast Cyber's [Meetup](https://www.meetup.com/spacecoastcyber/) page for information regarding our next social meetup and RSVP!
+Visit Space Coast Cyber's [Meetup](https://www.meetup.com/spacecoastcyber/) page for information regarding the next social meetup and RSVP!
 
 ### Code of Conduct
 
