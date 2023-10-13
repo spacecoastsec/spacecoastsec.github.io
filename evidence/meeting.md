@@ -1,4 +1,4 @@
-![Peter Winslow](peter.jpg)
+![Peter Winslow](../assets/img/peter.jpg)
 
 Name: Peter Winslow
 
