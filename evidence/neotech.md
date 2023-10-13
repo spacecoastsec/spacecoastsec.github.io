@@ -1,4 +1,4 @@
-![Caleb Winslow](caleb.jpg)
+![Caleb Winslow](../assets/img/caleb.jpg)
 
 Name: Caleb Winslow
 
