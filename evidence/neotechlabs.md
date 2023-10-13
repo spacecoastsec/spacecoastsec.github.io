@@ -1,4 +1,4 @@
-![NeoTech Labs](neotech.jpg)
+![NeoTech Labs](../assets/img/neotech.jpg)
 
 The subsidiary of NeoTech that owned the server was NeoTech Labs, a research and development arm of the company. NeoTech Labs was responsible for developing and testing new technologies, including the advanced encryption and security systems. The server was located in a secure facility owned and operated by NeoTech, the parent company. The NeoTech Labs facility was equipped with state-of-the-art security systems, including biometric scanners, motion sensors, and encryption algorithms. The server was also protected by a team of highly trained security personnel, who were responsible for monitoring the system 24/7 and responding to any security incidents. Despite the advanced security measures in place, Maya was able to infiltrate the facility and access the server remotely since she appears like a regular user on the NeoTech Labs network. Her skills and expertise allowed her to bypass the security systems and gain access to the server's data. 
 
