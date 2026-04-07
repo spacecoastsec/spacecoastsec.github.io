@@ -1,3 +1,21 @@
-theme: jekyll-theme-cayman
 title: SpaceCoastSec
 description: Space Coast Florida's information security community in Brevard County.
+
+nav:
+  - label: "MISSION BRIEF"
+    url: "/"
+  - label: "COMMS LOG"
+    url: "/comms-log"
+  - label: "INTEL DEPOT"
+    url: "/resources"
+  - label: "CREW REGS"
+    url: "/crew-regs"
+
+social:
+  youtube: "https://www.youtube.com/channel/UCfazmWzRno1oP4vE0QQ4MoQ"
+  linkedin: "https://linkedin.com/company/spacecoastsec"
+  instagram: "https://instagram.com/spacecoastsec"
+  facebook: "https://facebook.com/spacecoastsec"
+  x: "https://x.com/spacecoastsec"
+  mastodon: "https://mastodon.social/@spacecoastsec"
+  bluesky: "https://bsky.app/profile/spacecoastsec.bsky.social"
